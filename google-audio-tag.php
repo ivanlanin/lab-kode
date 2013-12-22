@@ -22,9 +22,9 @@
     src="//ssl.gstatic.com/dictionary/static/sounds/de/0/risk.mp3"></audio>
 <script>
 $(function() {
-	$("#hear").click( function() {
-		$("#audio").get(0).play();
-	});
+    $("#hear").click( function() {
+        $("#audio").get(0).play();
+    });
 });
 </script>
 </body>
