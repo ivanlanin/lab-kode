@@ -8,10 +8,10 @@
 <style>
     audio { display: none; }
 </style>
-<script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
+<script src="//code.jquery.com/jquery.min.js"></script>
 </head>
 <body>
-<a id="hear"><input width="32" type="image" height="32"
+<a id="hear"><input type="image" width="32" height="32"
     style="height:32px;width:32px"
     src="data:image/png;base64,
     iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAAXNSR0IArs4c6QAAAARnQU1B
